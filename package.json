@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "api-chatfb": "^1.0.0",
-    "@scdb/simple-http": "^1.0.1-a"
+    "@scdb/simple-http": "^1.0.2"
   },
   "devDependencies": {},
   "scripts": {
