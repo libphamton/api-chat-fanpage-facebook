@@ -1,2 +1,2 @@
-
-console.log(123);
+'use strict';
+var bind = require('function-bind');
