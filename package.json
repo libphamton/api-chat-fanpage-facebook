@@ -1,17 +1,22 @@
 {
   "name": "api-chat-fanpage-facebook",
-  "version": "1.1.2",
-  "description": "",
+  "version": "1.1.4",
+  "description": "Connect to Facebook fanpage",
   "main": "index.js",
   "dependencies": {
-    "api-chatfb": "^1.0.0",
+    "api-chatfb": "^1.0.2",
     "@scdb/simple-http": "^1.0.4"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "Facebook",
+    "fanpage",
+    "api-fb",
+    "api-chatfb"
+  ],
   "author": "",
   "license": "MIT",
   "repository": {
