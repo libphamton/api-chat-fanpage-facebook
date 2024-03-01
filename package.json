@@ -1,6 +1,6 @@
 {
   "name": "@oraliepham/api-chat-fanpage-facebook",
-  "version": "1.1.9",
+  "version": "1.2.0",
   "description": "Connect to Facebook fanpage",
   "main": "index.js",
   "dependencies": {
