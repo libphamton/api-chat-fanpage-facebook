@@ -1,12 +1,13 @@
 {
-  "name": "@oraliepham/api-chat-fanpage-facebook",
+  "name": "@phamtondev/api-chat-fanpage-facebook",
   "version": "1.2.0",
   "description": "Connect to Facebook fanpage",
-  "main": "index.js",
+  "main": "lib/index.js",
   "dependencies": {
     "@scdb/simple-http": "^1.0.4",
     "@utilcode/simple-http": "^1.0.0",
-    "api-chatfb": "^1.0.1"
+    "api-chatfb": "^1.0.1",
+    "api-chatfb-test": "^1.0.4"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,6 +22,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/OraliePham/api-chatfb.git"
+    "url": "https://github.com/phamtondev/api-chat-fanpage-facebook.git"
   }
 }
