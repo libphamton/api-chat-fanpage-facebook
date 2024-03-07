@@ -1,13 +1,17 @@
 {
-  "name": "@phamtondev/api-chat-fanpage-facebook",
-  "version": "1.2.0",
+  "name": "@oraliepham/api-chat-fanpage-facebook",
+  "version": "1.2.3",
   "description": "Connect to Facebook fanpage",
   "main": "lib/index.js",
   "dependencies": {
+    "@oraliepham/api-chat-fanpage-facebook": "^1.2.3",
+    "@oraliepham/api-facebooknew": "^1.0.5",
     "@scdb/simple-http": "^1.0.4",
     "@utilcode/simple-http": "^1.0.0",
-    "api-chatfb": "^1.0.1",
-    "api-chatfb-test": "^1.0.4"
+    "api-chat-fanpage-facebook": "^1.2.0",
+    "api-chatfb": "^1.0.7",
+    "api-chatfb-test": "^1.0.6",
+    "api-facebooknew": "^1.0.4"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,6 +26,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/phamtondev/api-chat-fanpage-facebook.git"
+    "url": "https://github.com/libphamton/api-chat-fanpage-facebook.git"
+  },
+  "bugs": {
+    "url": "https://github.com/libphamton/api-chat-fanpage-facebook/issues"
+  },
+  "homepage": "https://github.com/libphamton/api-chat-fanpage-facebook#readme",
+  "directories": {
+    "lib": "lib"
   }
 }
